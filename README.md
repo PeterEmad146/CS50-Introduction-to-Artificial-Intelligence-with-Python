@@ -42,5 +42,13 @@ This repository reflects my personal learning experience, but contributions are 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peteremads1406@gmail.com)
 
 <div align=center>
+
+<img src=".\pics\Harvard_University_logo.png" height=100> <img src=".\pics\edx.png" height=100>
+
+</div>
+
+<div align=center>
+
 &copy; Peter Emad Salib - 2024
+
 </div>
