@@ -43,7 +43,7 @@ This repository reflects my personal learning experience, but contributions are 
 
 <div align=center>
 
-<img src=".\pics\Harvard_University_logo.png" height=100> <img src=".\pics\edx.png" height=100>
+<img src=".\pics\Harvard_University_logo.png" height=100> <img src=".\pics\edX.png" height=100>
 
 </div>
 
